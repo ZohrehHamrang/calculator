@@ -19,4 +19,4 @@ steps:
     npm install
     npm run build
     npm test
-displayName: 'Install Node.js'
+displayName: 'Install npm'
